@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Timeline | Forgotten Realms</title>
+
+    <style type="text/css">
+        body, html {
+          font-family: sans-serif;
+          font-size: 10pt;
+        }
+
+        .vis-item.vis-background.general {
+          background-color: rgba(255, 0, 0, 0.2);
+        }
+        .vis-item.vis-background.drizztbkg {
+          background-color: rgba(50, 100, 220, 0.2);
+        }
+        .vis-item.vis-background.menzobkg {
+          background-color: rgba(220, 100, 50, 0.2);
+        }
+        .vis-item.vis-background.lirielbkg {
+          background-color: rgba(0, 250, 0, 0.2);
+        }
+        .vis-item.vis-background.entreribkg {
+          background-color: rgba(0, 250, 0, 0.2);
+        }
+
+
+        .vis-item.drizzt {
+          background-color: rgba(50, 100, 220, 0.6);
+        }
+        .vis-item.menzo {
+          background-color: rgba(220, 100, 50, 0.6);
+        }
+        .vis-item.liriel {
+          background-color: rgba(0, 250, 0, 0.6);
+        }
+        .vis-item.entreri {
+          background-color: rgba(180, 120, 0, 0.6);
+        }
+    </style>
+
+    <script src="vis/dist/vis.js"></script>
+    <link href="vis/dist/vis.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<p> Forgotten Realms Timeline. </p>
+
+<div id="visualization"></div>
+
+<script type="text/javascript">
+  // DOM element where the Timeline will be attached
+  var container = document.getElementById('visualization');
+
+
+var items = new vis.DataSet([
+    /** General Eras */
+    {   id: 'G1', type: 'background', group: 0, className: 'general',       content: 'Spellplague',             start: '1385', end: '1479'},
+    {   id: 'G2', type: 'point', group: 0, className: 'general',            content: 'Time of Troubles',        start: '1358'},
+    
+    /** Drizzt Eras */
+    {   id: 'DE1', type: 'background', group: 1, className:'drizztbkg',     content: 'Underdark',               start: '1297', end: '1340'},
+    {   id: 'DE2', type: 'background', group: 1, className:'drizztbkg',     content: 'Icewind Dale',            start: '1347', end: '1356'},
+    {   id: 'DE3', type: 'background', group: 1, className:'drizztbkg',     content: 'Wulfgar in hell',         start: '1358', end: '1364'},
+    {   id: 'DE4', type: 'background', group: 1, className:'drizztbkg',     content: 'Aboard the Sea Sprite',   start: '1364', end: '1370'},
+    {   id: 'DE5', type: 'background', group: 1, className:'drizztbkg',     content: 'Quest for Gauntlgrym',    start: '1409', end: '1462'},
+    {   id: 'DE6', type: 'background', group: 1, className:'drizztbkg',     content: 'Drizzt sleeps',           start: '1464', end: '1484'},
+
+    /** Drizzt Points */
+    {   id:'D09', group: 1, className: 'drizzt',    content: 'Bruenor is Born',                     start: '1120'},
+    {   id:'D10', group: 1, className: 'drizzt',    content: 'Drizzt is Born',                      start: '1297'},
+    {   id:'D20', group: 1, className: 'drizzt',    content: 'Drizzt leaves Menzoberranzan',        start: '1328'},
+    {   id:'D30', group: 1, className: 'drizzt',    content: 'Drizzt visits Blingdenstone',         start: '1338'},
+    {   id:'D31', group: 1, className: 'drizzt',    content: 'Wulfgar \& Cattie-brie are Born',     start: '1339'},
+    {   id:'D40', group: 1, className: 'drizzt',    content: 'Crenshinibon found',                  start: '1351'},
+    {   id:'D50', group: 1, className: 'drizzt',    content: 'Bruenor 8th King of Mithral Hall',    start: '1356'},
+    {   id:'D60', group: 1, className: 'drizzt',    content: 'Drizzt kills Quenthel',               start: '1358'},
+    {   id:'D70', group: 1, className: 'drizzt',    content: 'Wulfar dies',                         start: '1358'},
+    {   id:'D80', group: 1, className: 'drizzt',    content: 'Wulfgar returns',                     start: '1364'},
+    {   id:'D81', group: 1, className: 'drizzt',    content: 'Crenshinibon is found again',         start: '1364'},
+    {   id:'D82', group: 1, className: 'drizzt',    content: 'Crenshinibon is destroyed',           start: '1366'},
+    {   id:'D90', group: 1, className: 'drizzt',    content: 'Wulfgar takes Colson',                start: '1369'},
+    {   id:'D91', group: 1, className: 'drizzt',    content: 'Many-Arrows rises',                   start: '1370'},
+    {   id:'D100', group: 1, className: 'drizzt',   content: 'Wulfgar returns to Icewind Dale',     start: '1372'},
+    {   id:'D101', group: 1, className: 'drizzt',   content: 'Treaty of Garumn\'s Gorge',           start: '1372'},
+    {   id:'D102', group: 1, className: 'drizzt',   content: 'Deudermont dies',                     start: '1377'},
+    {   id:'D103', group: 1, className: 'drizzt',   content: 'Cadderly, Cattie-brie \& Regis die',  start: '1385'},
+    {   id:'D110', group: 1, className: 'drizzt',   content: 'Bruenor fakes his death',             start: '1409'},
+    {   id:'D111', group: 1, className: 'drizzt',   content: 'ca. Dalhia is Born',                  start: '1430'},
+    {   id:'D112', group: 1, className: 'drizzt',   content: 'Gauntlgrym primordial awakens',       start: '1451'},
+    {   id:'D113', group: 1, className: 'drizzt',   content: 'Gauntlgrym found',                    start: '1462'},
+    {   id:'D114', group: 1, className: 'drizzt',   content: 'Bruenor dies',                        start: '1462'},
+    {   id:'D115', group: 1, className: 'drizzt',   content: 'The Companions reborn',               start: '1462'},
+    {   id:'D120', group: 1, className: 'drizzt',   content: 'Drizzt goes to Shadowfell',           start: '1463'},
+    {   id:'D121', group: 1, className: 'drizzt',   content: 'Drizzt falls asleep',                 start: '1464'},
+    {   id:'D122', group: 1, className: 'drizzt',   content: 'Drizzt awakens',                      start: '1484'},
+    {   id:'D123', group: 1, className: 'drizzt',   content: 'Bruenor 10th King of Mithral Hall',   start: '1484'},
+    {   id:'D124', group: 1, className: 'drizzt',   content: 'Many-Arrows defeated',                start: '1485'},
+
+    /** Menzoberranzan Eras */
+    {   id:'MZ1', type: 'background', group: 2, className: 'menzobkg',  content: 'Quenthel in Abyss',           start: '1358', end: '1361'},
+
+    /** Menzoberranzan Points */
+    {   id:'M10', group: 2, className: 'menzo',     content: 'Gromph is Born',                      start: '670'},
+    {   id:'M20', group: 2, className: 'menzo',     content: 'Menzoberranzan attacks Mithral Hall', start: '1358'},
+    {   id:'M30', group: 2, className: 'menzo',     content: 'Quenthel returns',                    start: '1361'},
+    {   id:'M40', group: 2, className: 'menzo',     content: 'War of the Spider Queen',             start: '1371'},
+            
+    /** Liriel Points */
+    {   id:'L10', group: 3, className: 'liriel',    content: 'Liriel is Born',                      start: '1322'},
+    {   id:'L20', group: 3, className: 'liriel',    content: 'Fyodor is Born',                      start: '1342'},
+    {   id:'L30', group: 3, className: 'liriel',    content: 'Liriel becomes the windwalker',       start: '1361'},
+
+    /** Entreri Eras */
+    {   id:'EN1', type: 'background', group: 4, className: 'entreribkg',  content: 'Entreri enslaved',           start: '1375', end: '1463'},
+    
+    /** Entreri Points */
+    {   id:'E00', group: 4, className: 'entreri',   content: 'ca. Entreri is Born',                 start:'1320'},
+    {   id:'E10', group: 4, className: 'entreri',   content: 'Entreri hunts Regis',                 start:'1351'},
+    {   id:'E20', group: 4, className: 'entreri',   content: 'Entreri fights Drizzt',               start:'1357'},
+    {   id:'E30', group: 4, className: 'entreri',   content: 'Entreri \"kills\" Drizzt',            start:'1364'},
+    {   id:'E40', group: 4, className: 'entreri',   content: 'Entreri in Damara',                   start:'1367'},
+    {   id:'E50', group: 4, className: 'entreri',   content: 'ca. Entreri enslaved',                start:'1375'},
+  ]);
+
+
+
+    /**
+     * Group 0: General
+     * Group 1: Drizzt
+     * Group 2: Menzoberranzan
+     * Group 3: Liriel
+     * Group 4: Entreri
+     */  
+    var groups = new vis.DataSet([
+        {id: 0, content: 'General Eras'},
+        {id: 1, content: 'Drizzt Do\'Urden'},
+        {id: 2, content: 'Menzoberranzan'},
+        {id: 3, content: 'Liriel Baerne'},
+        {id: 4, content: 'Artemis Entreri'}
+    ]);
+
+    /** Configuration for the Timeline */
+    var options = {};
+
+    /** Create a Timeline */
+    var timeline = new vis.Timeline(container, items, groups, options);
+</script>
+</body>
+</html>

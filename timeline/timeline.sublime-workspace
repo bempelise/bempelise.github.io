@@ -1,0 +1,985 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Me",
+				"Menzoberranzan"
+			],
+			[
+				"dri",
+				"drizztbkg"
+			],
+			[
+				"CMAKE",
+				"CMAKE_BINARY_DIR"
+			],
+			[
+				"mous",
+				"mouseButton"
+			],
+			[
+				"target",
+				"target_link_libraries"
+			],
+			[
+				"incl",
+				"include_directories"
+			],
+			[
+				"getn",
+				"getNextK"
+			],
+			[
+				"tra",
+				"traceA"
+			],
+			[
+				"getBuffer",
+				"getBufferMaxThr"
+			],
+			[
+				"nonD",
+				"nonDomCost"
+			],
+			[
+				"non",
+				"nonDomInstPath"
+			],
+			[
+				"to",
+				"totalb"
+			],
+			[
+				"dom",
+				"domCost"
+			],
+			[
+				"get",
+				"getSolution"
+			],
+			[
+				"float",
+				"floatValue"
+			],
+			[
+				"Buff",
+				"BufferSim"
+			],
+			[
+				"Buf",
+				"buf"
+			],
+			[
+				"error",
+				"errorThr"
+			],
+			[
+				"buffer",
+				"bufferSize"
+			],
+			[
+				"fin",
+				"findBuffer"
+			],
+			[
+				"rem",
+				"remTokens"
+			],
+			[
+				"gcd",
+				"gcdab"
+			],
+			[
+				"gc",
+				"gcdab"
+			],
+			[
+				"bu",
+				"bufForB"
+			],
+			[
+				"Bord",
+				"BorderLayout"
+			],
+			[
+				"op",
+				"optLabels"
+			],
+			[
+				"time",
+				"timeRatio"
+			],
+			[
+				"min",
+				"minBufLive"
+			],
+			[
+				"minB",
+				"minBufLive"
+			],
+			[
+				"minBuf",
+				"minBufThr"
+			],
+			[
+				"simula",
+				"simulateInstance"
+			],
+			[
+				"ab",
+				"ab	abstract"
+			],
+			[
+				"se",
+				"setFireB"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"indx",
+				"indexOf"
+			],
+			[
+				"Boola",
+				"BooleanValue"
+			],
+			[
+				"right",
+				"rightFired"
+			],
+			[
+				"Has",
+				"HashMap"
+			],
+			[
+				"status",
+				"statusVector"
+			],
+			[
+				"genre",
+				"generateDataDependencies"
+			],
+			[
+				"BD",
+				"BPDFActor"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"BPDF",
+				"BPDFActor"
+			],
+			[
+				"BPF",
+				"BPDFActor"
+			],
+			[
+				"BPD",
+				"BPDFActor"
+			],
+			[
+				"Compoio",
+				"CompositeProduct"
+			],
+			[
+				"has",
+				"hasCeiling"
+			],
+			[
+				"ceil",
+				"ceilOrFloor"
+			],
+			[
+				"genera",
+				"generateMuDependencies"
+			],
+			[
+				"l",
+				"lFunc"
+			],
+			[
+				"_",
+				"_map"
+			],
+			[
+				"modi",
+				"modifierSol"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"bool",
+				"boolParams"
+			],
+			[
+				"ge",
+				"getString"
+			],
+			[
+				"getP",
+				"getProduct"
+			],
+			[
+				"actr",
+				"actorName"
+			],
+			[
+				"rep",
+				"repVector"
+			],
+			[
+				"bala",
+				"balanceEquations"
+			],
+			[
+				"cycl",
+				"cycleActorList"
+			],
+			[
+				"B",
+				"BPDFActor"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"addAc",
+				"addActor"
+			],
+			[
+				"curre",
+				"currentActor"
+			],
+			[
+				"find",
+				"findSuccessors"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"String",
+				"StringTokenizer"
+			],
+			[
+				"test",
+				"testInt"
+			],
+			[
+				"Z",
+				"zeroValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "timeline.html",
+			"settings":
+			{
+				"buffer_size": 8584,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 148.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Pandoc: Render Markdown to HTML"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 267.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"show.encoding()",
+			"showencoding()",
+			"sho.encoding()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Files/Dropbox/Projects/timeline/hello.js",
+		"/D/Files/Dropbox/Projects/sfml/CMakeLists.txt",
+		"/D/Files/Dropbox/Projects/sfml/src/MainLoop.hpp",
+		"/D/Files/Dropbox/Projects/sfml/src/walrus_main.cpp",
+		"/D/World_of_Tanks/res_mods/configs/xvm/jove/carousel.xc",
+		"/D/Downloads/carousel.xc",
+		"/D/World_of_Tanks/res_mods/configs/xvm/xvm.xc",
+		"/D/World_of_Tanks/res_mods/configs/xvm/jove/@xvm.xc",
+		"/D/World_of_Tanks/res_mods/configs/xvm/xvm.xc.sample",
+		"/D/Files/Dropbox/Projects/sfml/src/SpriteLoader.hpp",
+		"/D/Downloads/Stencil.java",
+		"/D/Files/Dropbox/Projects/sfml/sfml.sublime-project",
+		"/D/Files/Dropbox/Projects/sfml/cmake_modules/FindGlog.cmake",
+		"/home/walrus/.cache/.fr-QTK0C8/ReadMe.txt",
+		"/home/walrus/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/walrus/Dropbox/Projects/sfml/sfml.sublime-project",
+		"/home/walrus/Dropbox/Projects/recipes/cookbook.sublime-project",
+		"/home/walrus/Dropbox/Projects/sfml/cmake_modules/Modules/FindSFML.cmake",
+		"/home/walrus/Dropbox/Projects/sfml/config.h.in",
+		"/home/walrus/Dropbox/Projects/sfml/cmake_modules/Config.cmake",
+		"/home/walrus/Dropbox/Projects/sfml/src/CMakeLists.txt",
+		"/home/walrus/Dropbox/Projects/recipes/template.tex",
+		"/home/walrus/Dropbox/Projects/recipes/cookbook.tex",
+		"/home/walrus/Downloads/source-code-pro-master/README.md",
+		"/home/walrus/Dropbox/Docs/programs/settings/Preferences(gravity).sublime-settings",
+		"/home/walrus/Dropbox/Docs/programs/settings/Preferences.sublime-settings",
+		"/D/Files/Dropbox/Projects/recipes/raw/The One with all the tastes",
+		"/C/Users/Walrus/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Files/Dropbox/Projects/recipes/cookbook.sublime-project",
+		"/D/Files/Dropbox/Projects/recipes/cookbook.sublime-workspace",
+		"/D/Files/Dropbox/Projects/recipes/recipes.sublime-project",
+		"/D/Files/Dropbox/Documents/creative/recipes/raw/EykoliMilopita",
+		"/D/Files/Dropbox/Documents/creative/recipes/raw/Roasted Vegetable Pasta",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/veggie/thaiPumpkinCurryShrimpBokChoy.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/raw/The Best Creamy Mushroom Sauce For Steaks",
+		"/D/Files/Dropbox/Documents/creative/recipes/raw/Thai Fried Rice with brocolli and mushrooms",
+		"/home/walrus/Documents/Dropbox/svn/code/cpp/fibonacci/fibonacci.c",
+		"/home/walrus/Documents/Copy/programs/installers/ghost themes/current/The-Shell-master/post.hbs",
+		"/home/walrus/Documents/Copy/programs/installers/ghost themes/current/The-Shell-master/default.hbs",
+		"/home/walrus/Documents/Copy/programs/installers/ghost themes/current/The-Shell-master/assets/js/prism.js",
+		"/home/walrus/Documents/Copy/programs/installers/ghost themes/current/The-Shell-master/assets/css/prism.css",
+		"/home/walrus/Documents/Dropbox/documents/creative/recipes/tex/sauce/pumkinPuree.tex",
+		"/home/walrus/Documents/Dropbox/documents/creative/recipes/tex/salad/panzanella.tex",
+		"/home/walrus/Documents/Dropbox/documents/creative/recipes/tex/tarts/pizzucchini.tex",
+		"/home/walrus/Documents/Dropbox/documents/creative/recipes/tex/pasta/bowTieCornThymeParmesan.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/parmezanCrustedChicken.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/italianChicken.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/veggie/spinachBasil.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/desserts/capricioza.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/fish/broiledHalibutLemonBasil.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/spinachTurkeyMeatballs.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/parmezanPestoChicken.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/desserts/liquidCakeChocolateCoconutMilk.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/salad/smokedSalmonAvocadoRocket.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/veggie/lentilsSoup.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/tarts/mushroomTart.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/cheddarSpinachStuffedChicken.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/zanzibarTandoori.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/poultry/almondChickenSchnitzel.tex",
+		"/C/dev/workspace/GdxTut/gradle/wrapper/gradle-wrapper.properties",
+		"/C/dev/workspace/GdxTut/gradle.properties",
+		"/C/dev/workspace/GdxTut/local.properties",
+		"/C/dev/workspace/GdxTut/settings.gradle",
+		"/C/dev/workspace/GdxTut/.project",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/drinks/strawberryBasilLemonade.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/desserts/cremeChocolatCassonade.tex",
+		"/D/Files/Dropbox/Documents/creative/recipes/tex/dess",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/meat/stuffedZucchinisEggLemon.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/veggie/roastedCarrotPotatoLentils.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/fish/filetsPoissonAuxAmandes.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/desserts/vasilopita.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/sauce/hummus.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/pasta/bowTieCornThymeParmesan.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/pasta/rigatoniSalamiTomato.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/salad/panzanella.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/poultry/mozarellaSalamiChickenRollUps.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/pasta/spaghettiTunaCapersTomato.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/pasta/spaghettiAglioOlio.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/desserts/liquidCakeChocolateCoconutMilk.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/tarts/pizzucchini.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/pasta/italianRisotto.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/veggie/eggplantRolatini.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/veggie/eggplantOven.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/tarts/pizza.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/tarts/makaronopita.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/tarts/lazyCheesePie.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/tarts/cockCrown.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/sauce/besamel.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/fish/poissonBordelaise.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/desserts/coconutRavaniKese.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/desserts/chocolateLayerCake.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/desserts/applepie.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/meat/soutzoukakia.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/meat/meatloaf.tex",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/dess",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/te",
+		"/D/Files/Dropbox/walrus/documents/creative/recipes/tex/fish/smokedSalmonAvocado.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/veggie/eggplantOven.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/veggie/eggplantRolatini.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/veggie/fasolakia.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/veggie/gigantes.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/veggie/patatokolokithokeftedes.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/veggie/tomatokeftedes.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/asparagusTart.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/cockCrown.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/lazyCheesePie.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/makaronopita.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/mushroomTart.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/pizza.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/quicheLorraineChicken.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/souflePasta.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/spinachFetaPie.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/tarts/spinachSoufle.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/sauce/jackDanielsSauce.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/sauce/marinaraSauce.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/sandwich/baghettini.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/salad/cherryProsciuttoSalad.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/cookbook.aux",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/poultry/almondChickenSchnitzel.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/poultry/parmezanPestoChicken.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/poultry/sweetSourChicken.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/poultry/turkeyOrange.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/poultry/zanzibarTandoori.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/pasta/spaghetiniPestoAlmond.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/pasta/zucchiniLemonSpaghetti.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/meat/casserolePork.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/meat/casserolePorkApples.tex",
+		"/home/walrus/Documents/Dropbox/walrus/Documents/creative/recipes/tex/meat/casseroleRedMeat.tex"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\Files\\Dropbox\\walrus\\documents\\creative\\recipes\\tex",
+			"C:\\Users\\walrus\\Documents\\Files\\Dropbox\\walrus\\documents\\recipes\\tex"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"start",
+			"200",
+			"id",
+			"id:",
+			"Do\\'Urden",
+			"\\",
+			">",
+			"if (event.type",
+			"std::cout",
+			"endl",
+			"sf::Event",
+			"std::",
+			"std",
+			"200",
+			"wait",
+			"window",
+			"RenderWindow",
+			"myproject",
+			"    ",
+			":",
+			"    ",
+			"linux",
+			"recipes",
+			"pre",
+			"bash",
+			"    ",
+			"    1. ",
+			"ital",
+			". ",
+			"    ",
+			"1.",
+			"[]{}{}\n",
+			"time",
+			"    ",
+			"\\0",
+			"    ",
+			"\\step ",
+			"& ",
+			" \\\\",
+			"& ",
+			"\\step",
+			" \\\\",
+			" & ",
+			"unit",
+			"\\step",
+			"unit",
+			" \\\\",
+			"\\step",
+			"unit",
+			" \\\\",
+			"\\step",
+			" \\\\",
+			"unit",
+			"\\step",
+			" \\\\",
+			"\\step",
+			"unit",
+			" \\\\",
+			"\\step",
+			" \\\\",
+			"unit",
+			"\\step",
+			"unit",
+			"\\step",
+			" \\\\",
+			"unit",
+			" \\\\",
+			"\\step",
+			"chinese",
+			"step",
+			"\\\\",
+			" \\\\",
+			"& ",
+			" &",
+			"step",
+			"potatoes",
+			" \\\\",
+			"& ",
+			"step",
+			" \\\\",
+			"unit",
+			"step",
+			" \\\\",
+			"& ",
+			" ",
+			"step",
+			"minutes",
+			"step",
+			" \\\\",
+			"& ",
+			"step",
+			"meatloaf",
+			"olive",
+			"step",
+			"garlic",
+			"minutes",
+			"cinnamon",
+			"\\\\",
+			"& ",
+			"step",
+			"minutes",
+			"step",
+			"minutes",
+			"step",
+			"chapter",
+			"figure",
+			"recipen@wpage",
+			"r@cipen@wpage",
+			"\\d@grees",
+			"\\DisplaySt@p",
+			"newstep",
+			"step",
+			"    ",
+			"    * ",
+			"    ",
+			"    * ",
+			"    ",
+			"    * ",
+			"    ",
+			"    * ",
+			"    ",
+			"    * ",
+			"sauce",
+			"    ",
+			"    * ",
+			"    ",
+			"hint",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "timeline.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4060,
+								4060
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4059,
+										4060
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3950,
+										3951
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "timeline.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cmae",
+				"Cmake\\CMakeLists.txt"
+			],
+			[
+				"wal",
+				"walrus_main.cpp"
+			],
+			[
+				"spri",
+				"SpriteLoader.hpp"
+			],
+			[
+				"map",
+				"inria/bpdf/symbol/MapManipulator.java"
+			],
+			[
+				"expre",
+				"symbol/Expression.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Files\\Dropbox\\Projects\\subl-projects\\bpdf.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
